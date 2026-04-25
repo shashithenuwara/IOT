@@ -33,6 +33,16 @@ Thumbs.db
 *.swp
 *.swo
 
+
+# Virtual Environments
+venv/
+.venv/
+env/
+.env/
+ENV/
+env.bak/
+venv.bak/
+
 # Testing
 /coverage
 
